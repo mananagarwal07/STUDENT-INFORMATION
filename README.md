@@ -1,0 +1,2 @@
+# STUDENT-INFORMATION
+If you want to store a record of hundred student you will need to define hundred variables to  store the name and similarly hundred variables for each type of data you need to enter in the  record. This is where structures come in handy. In this program we will make a structure of  student that will store the name of the student, the age of the student, department of the  student, registration number of student and the CGPA.
